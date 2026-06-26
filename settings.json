@@ -8,7 +8,7 @@
   "server": {
     "ip": "Biggie-pZXr.aternos.me:24178",
     "port": 24178,
-    "version": "26.2 (34)",
+    "version": false,
     "try-creative": false
   },
   "position": {
