@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Bot",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "cricket.aternos.host:24178",
